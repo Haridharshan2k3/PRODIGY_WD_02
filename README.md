@@ -15,6 +15,8 @@ Key Features:
 
 5.Lap Functionality: Users can record laps to mark specific intervals during timing sessions. This feature is particularly useful for analyzing performance in intervals or segmenting activities.
 
+6.Session History: The application maintains a history of timing sessions, including start time, stop time, and lap records, enabling users to review past activities and performance metrics.
+
 Technical Implementation:
 
 Built using HTML, CSS, and JavaScript for a cross-platform web experience.
