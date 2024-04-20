@@ -7,11 +7,13 @@ Key Features:
 
 1.Start, Stop, and Reset Functionality: Users can start the stopwatch to initiate time tracking, pause it at any point,and reset it to zero when needed. These basic functionalities allow for precise control over timing sessions.
 
-2.Real-Time Display: The application displays the elapsed time in real-time, ensuring users can monitor the progress of their timed activities easily. The time is formatted in hours, minutes, and seconds for clarity.
+2.Accurate Timekeeping: The stopwatch ensures precise timekeeping with milliseconds accuracy, enabling users to track time down to the smallest increments.
 
 3.User-Friendly Interface: With a clean and intuitive user interface, the stopwatch application offers a seamless experience. Clearly labeled buttons for start, stop, and reset actions make it easy for users to interact with the timer.
 
 4.Responsive Design: The application is designed to adapt to various screen sizes and devices, ensuring optimal performance on desktops, laptops, tablets, and smartphones. Users can access the stopwatch from anywhere, anytime.
+
+5.Lap Functionality: Users can record laps to mark specific intervals during timing sessions. This feature is particularly useful for analyzing performance in intervals or segmenting activities.
 
 Technical Implementation:
 
